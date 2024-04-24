@@ -1,11 +1,11 @@
 en:
   application:
-    name: Untitled Application
+    name: Tools4Thought
     owner: Unidentified Developer
     description: "You can update this description in `config/locales/en/application.en.yml`."
-    keywords: untitled application seo keywords
+    keywords: tools4thought seo keywords
     support_email: change.me@localhost
-    key: untitled_application
+    key: tools4thought
   webhooks/outgoing/endpoints:
     fields:
       api_version:
